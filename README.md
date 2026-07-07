@@ -14,3 +14,8 @@ Scikit-learn
 FAISS / ChromaDB 
 SQLite / MongoDB / Firebase 
 HTML5 & CSS3
+# Future Enhancements
+Collaboration with Educational Institutions 
+Ethical AI s Bias-Free Decision Making
+Skill Gap Analysis with Personalized Learning Paths 
+Integration with VR/AR Career Simulations
